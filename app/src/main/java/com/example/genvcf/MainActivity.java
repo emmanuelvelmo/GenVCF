@@ -16,7 +16,7 @@ import java.io.OutputStreamWriter;
 
 public class MainActivity extends AppCompatActivity
 {
-    private static final int CREATE_FILE_REQUEST_CODE = 123;
+    private static final int CREATE_FILE_REQUEST_CODE = 0;
     private EditText TextBox1_2;
     private EditText TextBox2_2;
     private EditText TextBox4_2;
